@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    }
+}
